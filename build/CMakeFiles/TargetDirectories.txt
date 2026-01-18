@@ -1,0 +1,3 @@
+/Users/emilywhitehead/Documents/CS 1410 Spring 2026/whiteheadweek2assignment/build/CMakeFiles/main.dir
+/Users/emilywhitehead/Documents/CS 1410 Spring 2026/whiteheadweek2assignment/build/CMakeFiles/edit_cache.dir
+/Users/emilywhitehead/Documents/CS 1410 Spring 2026/whiteheadweek2assignment/build/CMakeFiles/rebuild_cache.dir
